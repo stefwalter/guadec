@@ -216,11 +216,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="41.658744"
-     inkscape:cy="654.76883"
+     inkscape:zoom="0.7"
+     inkscape:cx="292.58508"
+     inkscape:cy="456.29125"
      inkscape:document-units="px"
-     inkscape:current-layer="g4544"
+     inkscape:current-layer="g3982"
      showgrid="false"
      inkscape:window-width="1616"
      inkscape:window-height="996"
@@ -295,7 +295,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Beer"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -610,21 +610,28 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.40636063px;line-height:121.00000381%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.40636063px;line-height:200%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="248.31888"
-         y="937.69006"
+         y="891.69006"
          id="text3487"
-         sodipodi:linespacing="121%"><tspan
+         sodipodi:linespacing="200%"><tspan
            sodipodi:role="line"
            id="tspan3489"
            x="248.31888"
-           y="937.69006"
-           style="font-weight:bold;line-height:121.00000381%;text-align:center;text-anchor:middle">ONE BEER</tspan><tspan
+           y="891.69006"
+           style="font-weight:bold;line-height:121.00000381%;text-align:center;text-anchor:middle">BEER</tspan><tspan
            sodipodi:role="line"
            x="248.31888"
-           y="969.51843"
+           y="938.58716"
+           style="font-weight:bold;line-height:121.00000381%;text-align:center;text-anchor:middle"
+           id="tspan4377"><tspan
+   style="font-weight:normal"
+   id="tspan4383">or </tspan>DRINK</tspan><tspan
+           sodipodi:role="line"
+           x="248.31888"
+           y="984.33203"
            id="tspan3493"
-           style="font-weight:normal;font-size:22.5px;line-height:121.00000381%;text-align:center;text-anchor:middle">VOUCHER</tspan></text>
+           style="font-weight:normal;font-size:22.5px;line-height:200%;text-align:center;text-anchor:middle">EUR 2,60 VOUCHER</tspan></text>
     </g>
     <use
        x="0"
@@ -1116,7 +1123,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Adfinissygroup"
-     style="display:inline">
+     style="display:none">
     <g
        id="g4219"
        style="display:inline">
